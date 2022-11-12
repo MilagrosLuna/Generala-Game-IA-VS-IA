@@ -13,6 +13,7 @@ Realizada por Milagros Luna
 ## Acerca del Proyecto
 
 Este proyecto me enseño muchas cosas, y tambien me permitio volcar mi conocimiento. Me enseño a jugar a la generala aunque simplifique algunas reglas(detalladas abajo), queria poder llegar a desarollar una partida entre Jugadores pero no pude con el tiempo asi que preferi reforzar lo que tenia. 
+Al ejecutar el programa por primera vez, te saldra que no hay jugadores en los archivos, despues de simular partidas podras ver los jugadores.
 
 Detallo las reglas que sigue el juego:
 * 11 rondas, pero se puede cancelar una partida, hacer que termine antes
