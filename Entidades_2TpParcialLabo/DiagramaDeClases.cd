@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Entidades_2TpParcialLabo.AccesoDatos" Collapsed="true">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgEAAAAAAACEABIAAAAAAAAAAAAIgAAAAAAAAAAAE=</HashCode>
+      <FileName>AccesoDatos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades_2TpParcialLabo.ArchivosDeTexto" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAACAAAAAAAAAgMAAAAAAAAAAAA=</HashCode>
+      <FileName>ArchivosDeTexto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades_2TpParcialLabo.Dado" Collapsed="true">
+    <Position X="4.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAABAAAAAAAAAAAAAAAAACEABAgEAAAABAAA=</HashCode>
+      <FileName>Dado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades_2TpParcialLabo.Jugador" Collapsed="true">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACABAAAAAAgCFABAAgAAIAAAAAAAAgAAIBZAAAAQ=</HashCode>
+      <FileName>Jugador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades_2TpParcialLabo.Partida" Collapsed="true">
+    <Position X="4.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIBAAAAAAEQAAAIEYAACAAAAAEAAAACAAAEAgACBQAA=</HashCode>
+      <FileName>Partida.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades_2TpParcialLabo.SerializadorJson&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAACAAAAAAAAAAAAQQAAAAAQAAA=</HashCode>
+      <FileName>SerializadorJson.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Entidades_2TpParcialLabo.SerializadorXml&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAACAAAAACAAAAAAAAAAAAQQAAAAAQAAA=</HashCode>
+      <FileName>SerializadorXml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Entidades_2TpParcialLabo.ISerializador&lt;T&gt;" Collapsed="true">
+    <Position X="0.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>ISerializador.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

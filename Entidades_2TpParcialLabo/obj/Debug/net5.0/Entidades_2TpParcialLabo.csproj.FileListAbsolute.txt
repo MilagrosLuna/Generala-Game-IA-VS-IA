@@ -1,0 +1,12 @@
+E:\$$FINAL$$$\Entidades_2TpParcialLabo\bin\Debug\net5.0\Entidades_2TpParcialLabo.deps.json
+E:\$$FINAL$$$\Entidades_2TpParcialLabo\bin\Debug\net5.0\Entidades_2TpParcialLabo.dll
+E:\$$FINAL$$$\Entidades_2TpParcialLabo\bin\Debug\net5.0\ref\Entidades_2TpParcialLabo.dll
+E:\$$FINAL$$$\Entidades_2TpParcialLabo\bin\Debug\net5.0\Entidades_2TpParcialLabo.pdb
+E:\$$FINAL$$$\Entidades_2TpParcialLabo\obj\Debug\net5.0\Entidades_2TpParcialLabo.GeneratedMSBuildEditorConfig.editorconfig
+E:\$$FINAL$$$\Entidades_2TpParcialLabo\obj\Debug\net5.0\Entidades_2TpParcialLabo.AssemblyInfoInputs.cache
+E:\$$FINAL$$$\Entidades_2TpParcialLabo\obj\Debug\net5.0\Entidades_2TpParcialLabo.AssemblyInfo.cs
+E:\$$FINAL$$$\Entidades_2TpParcialLabo\obj\Debug\net5.0\Entidades_2TpParcialLabo.csproj.CoreCompileInputs.cache
+E:\$$FINAL$$$\Entidades_2TpParcialLabo\obj\Debug\net5.0\Entidades_2TpParcialLabo.dll
+E:\$$FINAL$$$\Entidades_2TpParcialLabo\obj\Debug\net5.0\ref\Entidades_2TpParcialLabo.dll
+E:\$$FINAL$$$\Entidades_2TpParcialLabo\obj\Debug\net5.0\Entidades_2TpParcialLabo.pdb
+E:\$$FINAL$$$\Entidades_2TpParcialLabo\obj\Debug\net5.0\Entidades_2TpParcialLabo.csproj.AssemblyReference.cache
