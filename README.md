@@ -113,7 +113,7 @@ Lo utilice para testear codigo que podria llegar a generar problemas.
 ---
 Utilize delegados para que el jugador pueda acceder a la funcion tirada que es de un form, la cual actualiza las imagenes de los dados en base al
 metodo lanzar de los dados y me devuelve los dados jugados.
-Lo hice de esta manera ya que la tirada se hace en cada turno y la lñogica del jugar turno no le pertenece a un form
+Lo hice de esta manera ya que la tirada se hace en cada turno y la logica del jugar turno no le pertenece a un form
 sino que le pertenece a un jugador y queria que las imagenes se actualizen por cada turno.
 Tambien hay delegados en los eventos que se llaman en la task de jugar partida
 
